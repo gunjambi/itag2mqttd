@@ -1,5 +1,5 @@
 // Author: Jarkko Pöyry
-// License: GPL2
+// See LICENSE for License
 
 use configparser::ini::Ini;
 use std::format;

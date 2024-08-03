@@ -1,5 +1,5 @@
 // Author: Jarkko Pöyry
-// License: GPL2
+// See LICENSE for License
 
 mod config;
 mod itag_swarm_manager;

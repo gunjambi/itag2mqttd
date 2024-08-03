@@ -1,5 +1,5 @@
 // Author: Jarkko Pöyry
-// License: GPL2
+// See LICENSE for License
 
 use crate::MqttClient;
 use bluer::Uuid;
