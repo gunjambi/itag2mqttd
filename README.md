@@ -3,6 +3,7 @@
 
 This daemon monitors iTag Bluetooth devices using BlueZ and publishes the data over MQTT. The goal is to expose iTag devices as smart buttons for Home Assistant.
 
+Usage: `.\itag2mqttd example_config.ini`
 
 ## WARNING
 
